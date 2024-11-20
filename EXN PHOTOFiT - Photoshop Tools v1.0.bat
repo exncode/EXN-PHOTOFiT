@@ -139,7 +139,7 @@ pause >nul
 goto menu
 
 :ps_op4
-start https://github.com/ & goto menu
+start https://github.com/exncode/EXN-PHOTOFiT-Photoshop-Tools & goto menu
 
 :ps_op5
 exit
